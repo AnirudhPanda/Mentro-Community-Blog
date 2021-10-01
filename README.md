@@ -105,7 +105,7 @@ git clone https://github.com/<GITHUB_USERNAME>/Mentro-Community-Blog.git
 ```
 7. Navigate to your forked repo, on the top of the files section you'll notice a new section containing, a contribute button!
 
-8. Click on the contribute button, it will open a drop down, click the pull request button on the drop down. 
+8. Click on the contribute button, it will open a drop down, click the open pull request button on the drop down. 
 
    **Note: A pull request allows your changes to be merged with the original project.**
    
